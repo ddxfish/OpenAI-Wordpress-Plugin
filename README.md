@@ -8,6 +8,10 @@ This uses your API key which costs money. Do not make this public on your Wordpr
 * [chatgpt-reader] - Displays a text prompt with temperature option. 
 * [chatgpt-image] - Displays an image prompt. 
 
+# Installation
+* open /wp-content/plugins in your FTP/SCP
+* Create /wp-content/plugins/chatgpt-openai directory
+* add chatgpt-plugin.php here
 
 # More needed maybe
 * API URL in settings
